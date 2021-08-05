@@ -1,0 +1,27 @@
+body {
+    background-color: #000505;
+    text-align: center;
+}
+head{
+    background-color: white;
+}
+
+.navbar{
+    background-color: black;
+    justify-content: center;
+}
+.navbar-header{
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    color: white;
+}
+
+a {
+    color: #d8e7e7;
+    text-align: center;
+}
+a:hover {
+    color: #3a16d6;
+  }
